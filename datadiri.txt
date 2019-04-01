@@ -2,3 +2,4 @@ Nama      : Welly Chandra KK
 NIM       : 1829142004
 KELAS     : TEKOM B
 TGL LAHIR : 14
+ASAL      : JAWA BARAT
